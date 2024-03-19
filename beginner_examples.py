@@ -14,8 +14,6 @@ evens_list = [num for num in range(1, 11) if num % 2 == 0]
 print(evens_list)
 
 
-
-
 # Example 2: Squaring a List of Numbers
 numbers = [1, 3, 5, 7]
 
